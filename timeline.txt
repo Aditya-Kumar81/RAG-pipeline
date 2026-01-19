@@ -1,0 +1,3 @@
+didnt know github needed us to use Git LFS to handle files larger than 100 mb
+
+#made a simple pipeline to understand RAG
