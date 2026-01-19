@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+pypdf   #to handle pdfs
+pymupdf  #to handle pdfs
+tqdm    #for progress bar
+
+#for embeddings and vector db
+sentence-transformers
+faiss-cpu   #vector store
+chromadb    #vector store
+
